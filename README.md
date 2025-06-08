@@ -36,7 +36,7 @@ This project is a fork of [youtube-dl](https://github.com/ytdl-org/youtube-dl) b
 
 ```bash
 # Docker iamge 불러오기
-docker load -i final_2023040034.tar
+docker load -i final_2023040034:v1.tar
 
 # 로드된 이미지 확인
 docker images
